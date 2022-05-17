@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import co.micol.prj.dto.StudentVO;
-import oracle.sql.DATE;
+//import oracle.sql.DATE;
 
 public class ListTest {
 	public void listTest() {

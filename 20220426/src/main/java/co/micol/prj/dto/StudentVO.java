@@ -2,7 +2,8 @@ package co.micol.prj.dto;
 
 import java.sql.Date;
 
-public class StudentVO {
+public class StudentVO { //VO는 Value Object
+	// 객체를 값처럼 쓸 수 있고, 제약사항 중 하나는 객체의 인스턴스 변수가 생성자를 통해서 일단 설정된 후에는 결코 변하지 않음을 보장
 	private String studentId; //학번
 	private String name; //이름
 	private int age; //나이

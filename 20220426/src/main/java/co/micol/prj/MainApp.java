@@ -1,8 +1,8 @@
 package co.micol.prj;
 
-import co.micol.prj.listTest.ListTest;
+//import co.micol.prj.listTest.ListTest;
 import co.micol.prj.listTest.MapTest;
-import co.micol.prj.listTest.SetTest;
+//import co.micol.prj.listTest.SetTest;
 
 public class MainApp {
 
